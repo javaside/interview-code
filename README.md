@@ -65,4 +65,4 @@ java -cp java/target/classes com.interview.java.string.StringHashCodeDemo
 
 ## 许可证
 
-[MIT](LICENSE) © 2026 zxh
+[MIT](LICENSE) © 2026 Xinghua Zhou
