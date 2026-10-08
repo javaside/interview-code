@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/Java-17+-blue.svg)](pom.xml)
 [![Maven](https://img.shields.io/badge/Maven-multi--module-orange.svg)](pom.xml)
 
-[interview-drill](https://xibaojun.com/drill) 题库的示例代码仓。**对应的题目均已上线：[xibaojun.com/drill](https://xibaojun.com/drill)**，每道题的示例类头部 Javadoc 标注了题卡 ID，可与线上题目一一对照。
+[interview-drill](https://github.com/javaside/interview-drill)（按知识块组织的后端面试题库 + 记忆排期，开源）的示例代码仓。**对应的题目均已上线：[xibaojun.com/drill](https://xibaojun.com/drill)**，每道题的示例类头部 Javadoc 标注了题卡 ID，可与线上题目一一对照——主仓 App 内的「可运行示例」就是本项目的内容。
 
 ## 结构映射
 
