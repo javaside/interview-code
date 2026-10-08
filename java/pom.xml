@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.interview</groupId>
+        <artifactId>interview-code</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>interview-java</artifactId>
+    <name>interview-java</name>
+    <description>java 大类题库示例：content/java 下 10 个知识块 × 5 题，每题一个可运行演示类</description>
+
+    <dependencies>
+        <!-- 纯 JDK 演示，零第三方依赖 -->
+    </dependencies>
+</project>
